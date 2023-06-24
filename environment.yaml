@@ -1,0 +1,19 @@
+dir_path:
+
+  ds:
+
+    ds_dir: "data"
+    train_dir: "train"
+    test_dir: "test"
+
+  config:
+
+    config_dir: "config"
+    main_settings_file: "main_settings.yaml"
+    dataset_settings_file: "dataset_settings.yaml"
+    model_settings_file: "model_settings.yaml"
+
+  saved_models: "saved_models"
+  tensorboard_log: "tb_log"
+  classification: "classification_samples"
+

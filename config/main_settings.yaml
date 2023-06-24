@@ -1,0 +1,7 @@
+global_settings:
+
+  mode: "convert" # training/inference/prune/convert
+  from_pretrained: true
+  seed: 42
+  set_memory_growth: false
+  tf_stfu: true

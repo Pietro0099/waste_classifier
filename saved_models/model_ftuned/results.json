@@ -1,0 +1,7 @@
+{
+	"model_full_ftuned": {
+		"test_acc": 81.20,
+		"params": 60.348,
+		"input_shape": [96, 96, 3]
+	}
+}

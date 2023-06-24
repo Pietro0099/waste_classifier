@@ -1,0 +1,20 @@
+model_architecture:
+
+  arch: [16, 16, 24, 24, 40, 40, 64, 64, 96, 96] # 1st for entry block, last for classifier block
+  stride2_blocks: [1, 4, 6]
+  use_eca: true
+  use_fuse: true
+  use_skip: true
+  activation: "LeakyReLU"
+  drop_rate: 0.2
+
+model_training:
+
+  num_epochs: 100
+  optimizer_lr: 0.0003
+  label_smoothing: 0.2
+  reduce_lr_plateau_patience: 5
+  monitor: "val_accuracy"
+  warmup_epochs: 5
+  initial_lr: 0.00001
+  warmup_lr: 0.0003
