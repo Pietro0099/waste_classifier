@@ -131,16 +131,7 @@ Finally, the model has the potential to enhance decorum and social aspects of pu
 
 
 
-
-
-
-
-
-
-
-
-
-References:
+## References:
 Trends in Solid Waste Management:  https://datatopics.worldbank.org/what-a-waste/trends_in_solid_waste_management.html
 Assessing Incorrect Household Waste Sorting in a Medium-Sized Swedish City: https://pdfs.semanticscholar.org/ac1d/d97fdd0ea955ba846f65ae7ea2bbb1014869.pdf
 Literature Review of Automated Waste Segregation System using Machine Learning: A Comprehensive Analysis: https://ijssst.info/Vol-20/No-S2/paper15.pdf
@@ -148,4 +139,3 @@ A review on automated sorting of source-separated municipal solid waste for recy
 Andrew Howard, Mark Sandler, Grace Chu, Liang-Chieh Chen, Bo Chen, Mingxing Tan, Weijun Wang, Yukun Zhu, Ruoming Pang, Vijay Vasudevan, Quoc V. Le, Hartwig Adam: Searching for MobileNetV3, arXiv:1905.02244v5, in 2019.
 Mingxing Tan, Quoc V. Le: EfficientNetV2: Smaller Models and Faster Training, arXiv:2104.00298v3, in 2021.
 Qilong Wang, Banggu Wu, Pengfei Zhu, Peihua Li, Wangmeng Zuo, Qinghua Hu: ECA-Net: Efficient Channel Attention for Deep Convolutional Neural Networks, arXiv:1910.03151v4, in 2020.
-Pietro Monti, Ludovico Ventura: Waste Classifier, https://github.com/Pietro0099/waste_classifier
