@@ -1,0 +1,22 @@
+{
+	"EfficientNetV2B0": {
+		"test_acc": 95.59,
+		"params": 6052403,
+		"input_shape": [96, 96, 3]
+	},
+	"MobilenetV3 small": {
+		"test_acc": 93.00,
+		"params": 506507,
+		"input_shape": [96, 96, 3]
+	},
+	"Vanilla Model": {
+		"test_acc": 62.59,
+		"params": 54805,
+		"input_shape": [96, 96, 3]
+	},
+	"BinBrain Model": {
+		"test_acc": 81.20,
+		"params": 60348,
+		"input_shape": [96, 96, 3]
+	}
+}
